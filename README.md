@@ -1,7 +1,6 @@
 # Uber-Ride-Analysis-Report-for-2016
 This report presents a comprehensive analysis of Uber ride data for 2016, focusing on  operational efficiency, customer behaviour, and business performance.
 
-
 ## Executive Summary
 
 This report presents a comprehensive analysis of Uber ride data for 2016, focusing on  operational efficiency, customer behaviour, and business performance. The analysis leverages  data visualization and descriptive analytics to uncover patterns, trends, and actionable  insights. Uber, as a leading ride-sharing platform, serves diverse customer needs ranging from  business commutes to personal errands. Understanding ride patterns and customer  preferences is crucial for operational excellence and strategic decision-making. 
@@ -165,6 +164,7 @@ o Incentivize longer trips with tiered discounts or reward points.
 o Use Q4 insights to launch holiday season promotions. 
 
 ## Visualizatiom:
+![](https://github.com/Olowookere-Abidemi/Uber-Ride-Analysis-Report-for-2016-/blob/main/Uber%20Dasboard.jpg)
 
 _Key Visuals in Dashboard:_
 
@@ -172,7 +172,7 @@ _Key Visuals in Dashboard:_
 
 •_Bar Chart_: Trip purpose distribution by count. 
 
-•_Line Graph:_ Monthly trends in trip miles. 
+•_Line Graph:_ Monthly trends per trip. 
 
 •_Table_: Summary of metrics by quarter and purpose.
 
